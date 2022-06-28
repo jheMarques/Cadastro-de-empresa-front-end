@@ -1,0 +1,15 @@
+section{
+    margin: auto;
+}
+.row{
+    margin: 2px;
+}
+input{
+    margin: 2px;
+}
+.error{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 17px;
+}
